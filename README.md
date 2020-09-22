@@ -1,5 +1,20 @@
-### Hi there 👋
+# About Me 👋
+> “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 
+- Richard Feynmann
+
+I live this quote. It has guided me throught the world of code.
+
+## Skills
+ - Python
+ - C++
+ - Rust 
+ - SQL
+ - PHP
+ - Javascript
+ - Html
+ - Css
+  
 <!--
 **TravisDavis-ops/TravisDavis-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
