@@ -3,12 +3,8 @@
 
 - Richard Feynmann
 
-I live this quote. It has guided me throught the world of code.
-
 ## Skills
  - Python
- - C++
- - Rust 
  - SQL
  - PHP
  - Javascript
